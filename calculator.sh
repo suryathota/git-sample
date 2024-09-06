@@ -22,3 +22,8 @@ echo " multiplication of A and B values are: $mul"
 #divison function
 div=$((A/B))
 echo " divison of A and B is: $div "
+
+#modulo divison
+mod=$((A%B))
+echo " mod of A and B is: $mod"
+
