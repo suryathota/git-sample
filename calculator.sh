@@ -18,3 +18,7 @@ echo " substraction of A and B values are: $sub "
 #multiplication function
 mul=$(($A * $B))
 echo " multiplication of A and B values are: $mul"
+
+#divison function
+div=$((A/B))
+echo " divison of A and B is: $div "
