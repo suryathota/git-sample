@@ -15,4 +15,6 @@ echo  " addittion of A and B values are: $add "
 sub=$(($A - $B))
 echo " substraction of A and B values are: $sub "
 
-
+#multiplication function
+mul=$(($A * $B))
+echo " multiplication of A and B values are: $mul"
