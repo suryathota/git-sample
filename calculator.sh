@@ -23,10 +23,10 @@ echo " multiplication of A and B values are: $mul"
 div=$((A/B))
 echo " divison of A and B is: $div "
 
-#mod function added by "suriya, surya.august5@gmail.com"
+#mod function added by "thota, sooryathota@gmail.com"
 
 #modulo divison 
 mod=$((A%B))
 echo " mod of A and B is: $mod"
 
-#this is sample shell script for all mathematical operations.
+#sample shell script for all mathematical operations.
