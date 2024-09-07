@@ -3,7 +3,7 @@
 #date:05-09-2024
 #!/bin/bash
 
-#addittion function 
+ 
 
 read -p "enter A value " A
 read -p "enter B value " B
