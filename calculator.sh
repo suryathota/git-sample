@@ -29,3 +29,4 @@ echo " divison of A and B is: $div "
 mod=$((A%B))
 echo " mod of A and B is: $mod"
 
+#this is sample shell script for all mathematical operations.
